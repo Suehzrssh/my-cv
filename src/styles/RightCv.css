@@ -1,0 +1,75 @@
+.cvRight {
+    width: 62%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: end;
+  }
+  .education {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    background-color: rgb(13, 14, 14);
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  .eduDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 30px;
+  }
+  .eduDiv p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 11pt;
+  }
+  .workExp {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    background-color: rgb(13, 14, 14);
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .rightH2 {
+    font-size: 35px;
+    margin-left: 30px;
+    margin-top: 30px;
+  }
+  .eduIco {
+    transform: scale(2);
+    color: teal;
+  }
+  .rightSpan {
+    font-size: 30px;
+    margin-left: 35px;
+  }
+  .eduDiv {
+    margin-left: 30px;
+  }
+  .eduDiv h2 {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14pt;
+  }
+  .rightDate {
+    width: 130px;
+    color: teal;
+    font-size: 14pt;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .rightIcon {
+    transform: scale(1.2);
+  }
